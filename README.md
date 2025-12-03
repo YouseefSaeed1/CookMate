@@ -14,11 +14,11 @@ A Flutter-based mobile application to discover, save, and manage your favorite r
 - **Custom UI**: Features a custom animated splash screen using `Lottie` and a polished UI with `Google Fonts`.
 
 
-| Home Screen | Details Screen |
-|:---:|:---:|
-| ![Home Screen](./screenshots/home_screen.png) | ![Details Screen](./screenshots/details_screen.png) |
-| **Add Meal Screen** | |
-| ![Add Meal Screen](./screenshots/add_meal_screen.png) | |
+|                        Cuisines Screen                        | Meals List Screen |
+|:-------------------------------------------------------------:| :---: |
+|       ![Cuisines Screen](./screenshots/home_screen.png)       | ![Meals List Screen](./screenshots/meal_screen.png) |
+|                    **Meal Details Screen**                    | **Add Meal Screen** |
+| ![Meal Details Screen](./screenshots/meal_details_screen.png) | ![Add Meal Screen](./screenshots/add_meal_screen.png) |
 
 
 ## 🛠️ Technologies Used
