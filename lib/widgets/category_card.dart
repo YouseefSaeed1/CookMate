@@ -43,6 +43,15 @@ class CategoryCard extends ConsumerWidget {
               fit: BoxFit.cover,
               height: double.infinity,
               width: double.infinity,
+              imageErrorBuilder: (context, error, stackTrace) {
+                return const Center(
+                  child: Icon(
+                    Icons.broken_image,
+                    size: 100,
+                    color: Colors.grey,
+                  ),
+                );
+              },
             ),
             Positioned(
               bottom: 0,
