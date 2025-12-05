@@ -24,7 +24,6 @@ final theme = ThemeData(
   ),
 );
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
   runApp(ProviderScope(child: const MyApp()));
 }
 
